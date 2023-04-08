@@ -1,0 +1,10 @@
+﻿  EternalPurple.cpp
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2263): warning C4101: 'hWnd': unreferenced local variable
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2264): warning C4101: 'wRect': unreferenced local variable
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2253): warning C4101: 'rekt': unreferenced local variable
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2265): warning C4101: 'wPt': unreferenced local variable
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2262): warning C4101: 'hDsktp': unreferenced local variable
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2339): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\april\source\repos\eternalpurple\eternalpurple\eternalpurple.cpp(2353): warning C4293: '>>': shift count negative or too big, undefined behavior
+  EternalPurple.vcxproj -> C:\Users\April\source\repos\EternalPurple\Debug\EternalPurple.exe
+  EternalPurple.vcxproj -> C:\Users\April\source\repos\EternalPurple\Debug\EternalPurple.pdb (Full PDB)
